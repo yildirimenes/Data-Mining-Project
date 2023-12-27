@@ -1,0 +1,666 @@
+year;games_type;host_country;host_city;athletes;teams;competitions;country;gold;silver;bronze
+2022;Winter;China;Beijing;2834;91;109;Australia;1;2;1
+2022;Winter;China;Beijing;2834;91;109;Austria;7;7;4
+2022;Winter;China;Beijing;2834;91;109;Belarus;0;2;0
+2022;Winter;China;Beijing;2834;91;109;Belgium;1;0;1
+2022;Winter;China;Beijing;2834;91;109;Canada;4;8;14
+2022;Winter;China;Beijing;2834;91;109;Czechia;1;0;1
+2022;Winter;China;Beijing;2834;91;109;Estonia;0;0;1
+2022;Winter;China;Beijing;2834;91;109;Finland;2;2;4
+2022;Winter;China;Beijing;2834;91;109;France;5;7;2
+2022;Winter;China;Beijing;2834;91;109;Germany;12;10;5
+2022;Winter;China;Beijing;2834;91;109;Hungary;1;0;2
+2022;Winter;China;Beijing;2834;91;109;Italy;2;7;8
+2022;Winter;China;Beijing;2834;91;109;Japan;3;6;9
+2022;Winter;China;Beijing;2834;91;109;Latvia;0;0;1
+2022;Winter;China;Beijing;2834;91;109;Netherlands;8;5;4
+2022;Winter;China;Beijing;2834;91;109;New Zealand;2;1;0
+2022;Winter;China;Beijing;2834;91;109;Norway;16;8;13
+2022;Winter;China;Beijing;2834;91;109;People Republic of China;9;4;2
+2022;Winter;China;Beijing;2834;91;109;Poland;0;0;1
+2022;Winter;China;Beijing;2834;91;109;ROC;6;12;14
+2022;Winter;China;Beijing;2834;91;109;Republic of Korea;2;5;2
+2022;Winter;China;Beijing;2834;91;109;Slovakia;1;0;1
+2022;Winter;China;Beijing;2834;91;109;Slovenia;2;3;2
+2022;Winter;China;Beijing;2834;91;109;Spain;0;1;0
+2022;Winter;China;Beijing;2834;91;109;Sweden;8;5;5
+2022;Winter;China;Beijing;2834;91;109;Switzerland;7;2;6
+2022;Winter;China;Beijing;2834;91;109;Ukraine;0;1;0
+2022;Winter;China;Beijing;2834;91;109;United Kingdom;1;1;0
+2022;Winter;China;Beijing;2834;91;109;United States of America;8;10;7
+2020;Summer;Japan;Tokyo;11420;206;339;Argentina;0;1;2
+2020;Summer;Japan;Tokyo;11420;206;339;Armenia;0;2;2
+2020;Summer;Japan;Tokyo;11420;206;339;Australia;17;7;22
+2020;Summer;Japan;Tokyo;11420;206;339;Austria;1;1;5
+2020;Summer;Japan;Tokyo;11420;206;339;Azerbaijan;0;3;4
+2020;Summer;Japan;Tokyo;11420;206;339;Bahamas;2;0;0
+2020;Summer;Japan;Tokyo;11420;206;339;Bahrain;0;1;0
+2020;Summer;Japan;Tokyo;11420;206;339;Belarus;1;3;3
+2020;Summer;Japan;Tokyo;11420;206;339;Belgium;3;1;3
+2020;Summer;Japan;Tokyo;11420;206;339;Bermuda;1;0;0
+2020;Summer;Japan;Tokyo;11420;206;339;Botswana;0;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Brazil;7;6;8
+2020;Summer;Japan;Tokyo;11420;206;339;Bulgaria;3;1;2
+2020;Summer;Japan;Tokyo;11420;206;339;Burkina Faso;0;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Canada;7;7;10
+2020;Summer;Japan;Tokyo;11420;206;339;Chinese Taipei;2;4;6
+2020;Summer;Japan;Tokyo;11420;206;339;Colombia;0;4;1
+2020;Summer;Japan;Tokyo;11420;206;339;Croatia;3;3;2
+2020;Summer;Japan;Tokyo;11420;206;339;Cuba;7;3;5
+2020;Summer;Japan;Tokyo;11420;206;339;Czechia;4;4;3
+2020;Summer;Japan;Tokyo;11420;206;339;Denmark;3;4;4
+2020;Summer;Japan;Tokyo;11420;206;339;Dominican Republic;0;3;2
+2020;Summer;Japan;Tokyo;11420;206;339;Ecuador;2;1;0
+2020;Summer;Japan;Tokyo;11420;206;339;Egypt;1;1;4
+2020;Summer;Japan;Tokyo;11420;206;339;Estonia;1;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Ethiopia;1;1;2
+2020;Summer;Japan;Tokyo;11420;206;339;Fiji;1;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Finland;0;0;2
+2020;Summer;Japan;Tokyo;11420;206;339;France;10;12;11
+2020;Summer;Japan;Tokyo;11420;206;339;Georgia;2;5;1
+2020;Summer;Japan;Tokyo;11420;206;339;Germany;10;11;16
+2020;Summer;Japan;Tokyo;11420;206;339;Ghana;0;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Greece;2;1;1
+2020;Summer;Japan;Tokyo;11420;206;339;Grenada;0;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Hong Kong China;1;2;3
+2020;Summer;Japan;Tokyo;11420;206;339;Hungary;6;7;7
+2020;Summer;Japan;Tokyo;11420;206;339;India;1;2;4
+2020;Summer;Japan;Tokyo;11420;206;339;Indonesia;1;1;3
+2020;Summer;Japan;Tokyo;11420;206;339;Ireland;2;0;2
+2020;Summer;Japan;Tokyo;11420;206;339;Islamic Republic of Iran;3;2;2
+2020;Summer;Japan;Tokyo;11420;206;339;Israel;2;0;2
+2020;Summer;Japan;Tokyo;11420;206;339;Italy;10;10;20
+2020;Summer;Japan;Tokyo;11420;206;339;Jamaica;4;1;4
+2020;Summer;Japan;Tokyo;11420;206;339;Japan;27;14;17
+2020;Summer;Japan;Tokyo;11420;206;339;Jordan;0;1;1
+2020;Summer;Japan;Tokyo;11420;206;339;Kazakhstan;0;0;8
+2020;Summer;Japan;Tokyo;11420;206;339;Kenya;4;4;2
+2020;Summer;Japan;Tokyo;11420;206;339;Kosovo;2;0;0
+2020;Summer;Japan;Tokyo;11420;206;339;Kuwait;0;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Kyrgyzstan;0;2;1
+2020;Summer;Japan;Tokyo;11420;206;339;Latvia;1;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Lithuania;0;1;0
+2020;Summer;Japan;Tokyo;11420;206;339;Malaysia;0;1;1
+2020;Summer;Japan;Tokyo;11420;206;339;Mexico;0;0;4
+2020;Summer;Japan;Tokyo;11420;206;339;Moldova;0;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Mongolia;0;1;3
+2020;Summer;Japan;Tokyo;11420;206;339;Morocco;1;0;0
+2020;Summer;Japan;Tokyo;11420;206;339;Namibia;0;1;0
+2020;Summer;Japan;Tokyo;11420;206;339;Netherlands;10;12;14
+2020;Summer;Japan;Tokyo;11420;206;339;New Zealand;7;6;7
+2020;Summer;Japan;Tokyo;11420;206;339;Nigeria;0;1;1
+2020;Summer;Japan;Tokyo;11420;206;339;North Macedonia;0;1;0
+2020;Summer;Japan;Tokyo;11420;206;339;Norway;4;2;2
+2020;Summer;Japan;Tokyo;11420;206;339;People Republic of China;38;32;19
+2020;Summer;Japan;Tokyo;11420;206;339;Philippines;1;2;1
+2020;Summer;Japan;Tokyo;11420;206;339;Poland;4;5;5
+2020;Summer;Japan;Tokyo;11420;206;339;Portugal;1;1;2
+2020;Summer;Japan;Tokyo;11420;206;339;Puerto Rico;1;0;0
+2020;Summer;Japan;Tokyo;11420;206;339;Qatar;2;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;ROC;20;28;23
+2020;Summer;Japan;Tokyo;11420;206;339;Republic of Korea;6;4;10
+2020;Summer;Japan;Tokyo;11420;206;339;Romania;1;3;0
+2020;Summer;Japan;Tokyo;11420;206;339;San Marino;0;1;2
+2020;Summer;Japan;Tokyo;11420;206;339;Saudi Arabia;0;1;0
+2020;Summer;Japan;Tokyo;11420;206;339;Serbia;3;1;5
+2020;Summer;Japan;Tokyo;11420;206;339;Slovakia;1;2;1
+2020;Summer;Japan;Tokyo;11420;206;339;Slovenia;3;1;1
+2020;Summer;Japan;Tokyo;11420;206;339;South Africa;1;2;0
+2020;Summer;Japan;Tokyo;11420;206;339;Spain;3;8;6
+2020;Summer;Japan;Tokyo;11420;206;339;Sweden;3;6;0
+2020;Summer;Japan;Tokyo;11420;206;339;Switzerland;3;4;6
+2020;Summer;Japan;Tokyo;11420;206;339;Syrian Arab Republic;0;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Thailand;1;0;1
+2020;Summer;Japan;Tokyo;11420;206;339;Tunisia;1;1;0
+2020;Summer;Japan;Tokyo;11420;206;339;Turkey;2;2;9
+2020;Summer;Japan;Tokyo;11420;206;339;Turkmenistan;0;1;0
+2020;Summer;Japan;Tokyo;11420;206;339;Uganda;2;1;1
+2020;Summer;Japan;Tokyo;11420;206;339;Ukraine;1;6;12
+2020;Summer;Japan;Tokyo;11420;206;339;United Kingdom;22;20;22
+2020;Summer;Japan;Tokyo;11420;206;339;United States of America;39;41;33
+2020;Summer;Japan;Tokyo;11420;206;339;Uzbekistan;3;0;2
+2020;Summer;Japan;Tokyo;11420;206;339;Venezuela;1;3;0
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Australia;0;2;1
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Austria;5;3;6
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Belarus;2;1;0
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Belgium;0;1;0
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Canada;11;8;10
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Czechia;2;2;3
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Finland;1;1;4
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;France;5;4;6
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Germany;14;10;7
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Hungary;1;0;0
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Italy;3;2;5
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Japan;4;5;4
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Kazakhstan;0;0;1
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Latvia;0;0;1
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Liechtenstein;0;0;1
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Netherlands;8;6;6
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;New Zealand;0;0;2
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Norway;14;14;11
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;People Republic of China;1;6;2
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Poland;1;0;1
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;ROC;2;6;9
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Republic of Korea;5;8;4
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Slovakia;1;2;0
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Slovenia;0;1;1
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Spain;0;0;2
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Sweden;7;6;1
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Switzerland;5;6;4
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;Ukraine;1;0;0
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;United Kingdom;1;0;4
+2018;Winter;Republic of Korea;PyeongChang;2833;92;102;United States of America;9;8;6
+2016;Summer;Brazil;Rio;11238;207;306;Algeria;0;2;0
+2016;Summer;Brazil;Rio;11238;207;306;Argentina;3;1;0
+2016;Summer;Brazil;Rio;11238;207;306;Armenia;1;3;0
+2016;Summer;Brazil;Rio;11238;207;306;Australia;8;11;10
+2016;Summer;Brazil;Rio;11238;207;306;Austria;0;0;1
+2016;Summer;Brazil;Rio;11238;207;306;Azerbaijan;1;7;10
+2016;Summer;Brazil;Rio;11238;207;306;Bahamas;1;0;1
+2016;Summer;Brazil;Rio;11238;207;306;Bahrain;1;1;0
+2016;Summer;Brazil;Rio;11238;207;306;Belarus;1;4;4
+2016;Summer;Brazil;Rio;11238;207;306;Belgium;2;2;2
+2016;Summer;Brazil;Rio;11238;207;306;Brazil;7;6;6
+2016;Summer;Brazil;Rio;11238;207;306;Bulgaria;0;1;2
+2016;Summer;Brazil;Rio;11238;207;306;Burundi;0;1;0
+2016;Summer;Brazil;Rio;11238;207;306;Canada;4;3;15
+2016;Summer;Brazil;Rio;11238;207;306;Chinese Taipei;1;0;2
+2016;Summer;Brazil;Rio;11238;207;306;Colombia;3;2;3
+2016;Summer;Brazil;Rio;11238;207;306;Croatia;5;3;2
+2016;Summer;Brazil;Rio;11238;207;306;Cuba;5;2;4
+2016;Summer;Brazil;Rio;11238;207;306;Czechia;1;2;7
+2016;Summer;Brazil;Rio;11238;207;306;Democratic People Republic of Korea;2;3;2
+2016;Summer;Brazil;Rio;11238;207;306;Denmark;2;6;7
+2016;Summer;Brazil;Rio;11238;207;306;Dominican Republic;0;0;1
+2016;Summer;Brazil;Rio;11238;207;306;Egypt;0;0;3
+2016;Summer;Brazil;Rio;11238;207;306;Estonia;0;0;1
+2016;Summer;Brazil;Rio;11238;207;306;Ethiopia;1;2;5
+2016;Summer;Brazil;Rio;11238;207;306;Fiji;1;0;0
+2016;Summer;Brazil;Rio;11238;207;306;Finland;0;0;1
+2016;Summer;Brazil;Rio;11238;207;306;France;10;18;14
+2016;Summer;Brazil;Rio;11238;207;306;Georgia;2;1;4
+2016;Summer;Brazil;Rio;11238;207;306;Germany;17;10;15
+2016;Summer;Brazil;Rio;11238;207;306;Greece;3;1;2
+2016;Summer;Brazil;Rio;11238;207;306;Grenada;0;1;0
+2016;Summer;Brazil;Rio;11238;207;306;Hungary;8;3;4
+2016;Summer;Brazil;Rio;11238;207;306;Independent Olympic Athletes;1;0;1
+2016;Summer;Brazil;Rio;11238;207;306;India;0;1;1
+2016;Summer;Brazil;Rio;11238;207;306;Indonesia;1;2;0
+2016;Summer;Brazil;Rio;11238;207;306;Ireland;0;2;0
+2016;Summer;Brazil;Rio;11238;207;306;Islamic Republic of Iran;3;1;4
+2016;Summer;Brazil;Rio;11238;207;306;Israel;0;0;2
+2016;Summer;Brazil;Rio;11238;207;306;Italy;8;12;8
+2016;Summer;Brazil;Rio;11238;207;306;Jamaica;6;3;2
+2016;Summer;Brazil;Rio;11238;207;306;Japan;12;8;21
+2016;Summer;Brazil;Rio;11238;207;306;Jordan;1;0;0
+2016;Summer;Brazil;Rio;11238;207;306;Kazakhstan;2;5;10
+2016;Summer;Brazil;Rio;11238;207;306;Kenya;6;6;1
+2016;Summer;Brazil;Rio;11238;207;306;Kosovo;1;0;0
+2016;Summer;Brazil;Rio;11238;207;306;Lithuania;0;1;3
+2016;Summer;Brazil;Rio;11238;207;306;Malaysia;0;4;1
+2016;Summer;Brazil;Rio;11238;207;306;Mexico;0;3;2
+2016;Summer;Brazil;Rio;11238;207;306;Mongolia;0;1;1
+2016;Summer;Brazil;Rio;11238;207;306;Morocco;0;0;1
+2016;Summer;Brazil;Rio;11238;207;306;Netherlands;8;7;4
+2016;Summer;Brazil;Rio;11238;207;306;New Zealand;4;9;5
+2016;Summer;Brazil;Rio;11238;207;306;Niger;0;1;0
+2016;Summer;Brazil;Rio;11238;207;306;Nigeria;0;0;1
+2016;Summer;Brazil;Rio;11238;207;306;Norway;0;0;4
+2016;Summer;Brazil;Rio;11238;207;306;People Republic of China;26;18;26
+2016;Summer;Brazil;Rio;11238;207;306;Philippines;0;1;0
+2016;Summer;Brazil;Rio;11238;207;306;Poland;2;3;6
+2016;Summer;Brazil;Rio;11238;207;306;Portugal;0;0;1
+2016;Summer;Brazil;Rio;11238;207;306;Puerto Rico;1;0;0
+2016;Summer;Brazil;Rio;11238;207;306;Qatar;0;1;0
+2016;Summer;Brazil;Rio;11238;207;306;Republic of Korea;9;3;9
+2016;Summer;Brazil;Rio;11238;207;306;Romania;1;1;2
+2016;Summer;Brazil;Rio;11238;207;306;Russian Federation;19;17;20
+2016;Summer;Brazil;Rio;11238;207;306;Serbia;2;4;2
+2016;Summer;Brazil;Rio;11238;207;306;Singapore;1;0;0
+2016;Summer;Brazil;Rio;11238;207;306;Slovakia;2;2;0
+2016;Summer;Brazil;Rio;11238;207;306;Slovenia;1;2;1
+2016;Summer;Brazil;Rio;11238;207;306;South Africa;2;6;2
+2016;Summer;Brazil;Rio;11238;207;306;Spain;7;4;6
+2016;Summer;Brazil;Rio;11238;207;306;Sweden;2;6;3
+2016;Summer;Brazil;Rio;11238;207;306;Switzerland;3;2;2
+2016;Summer;Brazil;Rio;11238;207;306;Tajikistan;1;0;0
+2016;Summer;Brazil;Rio;11238;207;306;Thailand;2;2;2
+2016;Summer;Brazil;Rio;11238;207;306;Trinidad and Tobago;0;0;1
+2016;Summer;Brazil;Rio;11238;207;306;Tunisia;0;0;3
+2016;Summer;Brazil;Rio;11238;207;306;Turkey;1;3;4
+2016;Summer;Brazil;Rio;11238;207;306;Ukraine;2;5;4
+2016;Summer;Brazil;Rio;11238;207;306;United Arab Emirates;0;0;1
+2016;Summer;Brazil;Rio;11238;207;306;United Kingdom;27;23;17
+2016;Summer;Brazil;Rio;11238;207;306;United States of America;46;37;38
+2016;Summer;Brazil;Rio;11238;207;306;Uzbekistan;4;2;7
+2016;Summer;Brazil;Rio;11238;207;306;Venezuela;0;2;1
+2016;Summer;Brazil;Rio;11238;207;306;Vietnam;1;1;0
+2014;Winter;Russian Federation;Sochi;2780;88;98;Australia;0;2;1
+2014;Winter;Russian Federation;Sochi;2780;88;98;Austria;4;8;5
+2014;Winter;Russian Federation;Sochi;2780;88;98;Belarus;5;0;1
+2014;Winter;Russian Federation;Sochi;2780;88;98;Canada;10;10;5
+2014;Winter;Russian Federation;Sochi;2780;88;98;Croatia;0;1;0
+2014;Winter;Russian Federation;Sochi;2780;88;98;Czechia;2;4;3
+2014;Winter;Russian Federation;Sochi;2780;88;98;Finland;1;3;1
+2014;Winter;Russian Federation;Sochi;2780;88;98;France;4;4;7
+2014;Winter;Russian Federation;Sochi;2780;88;98;Germany;8;6;5
+2014;Winter;Russian Federation;Sochi;2780;88;98;Italy;0;2;6
+2014;Winter;Russian Federation;Sochi;2780;88;98;Japan;1;4;3
+2014;Winter;Russian Federation;Sochi;2780;88;98;Kazakhstan;0;0;1
+2014;Winter;Russian Federation;Sochi;2780;88;98;Latvia;1;1;3
+2014;Winter;Russian Federation;Sochi;2780;88;98;Netherlands;8;7;9
+2014;Winter;Russian Federation;Sochi;2780;88;98;Norway;11;6;9
+2014;Winter;Russian Federation;Sochi;2780;88;98;People Republic of China;3;4;2
+2014;Winter;Russian Federation;Sochi;2780;88;98;Poland;4;1;1
+2014;Winter;Russian Federation;Sochi;2780;88;98;Republic of Korea;3;3;2
+2014;Winter;Russian Federation;Sochi;2780;88;98;Russian Federation;10;10;9
+2014;Winter;Russian Federation;Sochi;2780;88;98;Slovakia;1;0;0
+2014;Winter;Russian Federation;Sochi;2780;88;98;Slovenia;2;2;4
+2014;Winter;Russian Federation;Sochi;2780;88;98;Sweden;2;7;6
+2014;Winter;Russian Federation;Sochi;2780;88;98;Switzerland;7;2;2
+2014;Winter;Russian Federation;Sochi;2780;88;98;Ukraine;1;0;1
+2014;Winter;Russian Federation;Sochi;2780;88;98;United Kingdom;1;1;3
+2014;Winter;Russian Federation;Sochi;2780;88;98;United States of America;9;9;10
+2012;Summer;Great Britain;London;10568;204;302;Afghanistan;0;0;1
+2012;Summer;Great Britain;London;10568;204;302;Algeria;1;0;0
+2012;Summer;Great Britain;London;10568;204;302;Argentina;1;1;2
+2012;Summer;Great Britain;London;10568;204;302;Armenia;0;1;1
+2012;Summer;Great Britain;London;10568;204;302;Australia;8;15;12
+2012;Summer;Great Britain;London;10568;204;302;Azerbaijan;2;2;5
+2012;Summer;Great Britain;London;10568;204;302;Bahamas;1;0;0
+2012;Summer;Great Britain;London;10568;204;302;Bahrain;1;0;0
+2012;Summer;Great Britain;London;10568;204;302;Belarus;2;5;3
+2012;Summer;Great Britain;London;10568;204;302;Belgium;0;1;2
+2012;Summer;Great Britain;London;10568;204;302;Botswana;0;1;0
+2012;Summer;Great Britain;London;10568;204;302;Brazil;3;5;9
+2012;Summer;Great Britain;London;10568;204;302;Bulgaria;0;2;1
+2012;Summer;Great Britain;London;10568;204;302;Cameroon;0;0;1
+2012;Summer;Great Britain;London;10568;204;302;Canada;2;6;10
+2012;Summer;Great Britain;London;10568;204;302;Chinese Taipei;1;0;1
+2012;Summer;Great Britain;London;10568;204;302;Colombia;1;3;5
+2012;Summer;Great Britain;London;10568;204;302;Croatia;3;1;2
+2012;Summer;Great Britain;London;10568;204;302;Cuba;5;3;7
+2012;Summer;Great Britain;London;10568;204;302;Cyprus;0;1;0
+2012;Summer;Great Britain;London;10568;204;302;Czechia;4;4;3
+2012;Summer;Great Britain;London;10568;204;302;Democratic People Republic of Korea;4;0;2
+2012;Summer;Great Britain;London;10568;204;302;Denmark;2;4;3
+2012;Summer;Great Britain;London;10568;204;302;Dominican Republic;1;1;0
+2012;Summer;Great Britain;London;10568;204;302;Egypt;0;3;1
+2012;Summer;Great Britain;London;10568;204;302;Estonia;0;1;1
+2012;Summer;Great Britain;London;10568;204;302;Ethiopia;3;2;3
+2012;Summer;Great Britain;London;10568;204;302;Finland;0;2;1
+2012;Summer;Great Britain;London;10568;204;302;France;11;11;13
+2012;Summer;Great Britain;London;10568;204;302;Gabon;0;1;0
+2012;Summer;Great Britain;London;10568;204;302;Georgia;1;2;3
+2012;Summer;Great Britain;London;10568;204;302;Germany;11;20;13
+2012;Summer;Great Britain;London;10568;204;302;Greece;0;0;2
+2012;Summer;Great Britain;London;10568;204;302;Grenada;1;0;0
+2012;Summer;Great Britain;London;10568;204;302;Guatemala;0;1;0
+2012;Summer;Great Britain;London;10568;204;302;Hong Kong China;0;0;1
+2012;Summer;Great Britain;London;10568;204;302;Hungary;8;4;6
+2012;Summer;Great Britain;London;10568;204;302;India;0;2;4
+2012;Summer;Great Britain;London;10568;204;302;Indonesia;0;2;1
+2012;Summer;Great Britain;London;10568;204;302;Ireland;1;1;4
+2012;Summer;Great Britain;London;10568;204;302;Islamic Republic of Iran;7;5;1
+2012;Summer;Great Britain;London;10568;204;302;Italy;8;9;11
+2012;Summer;Great Britain;London;10568;204;302;Jamaica;4;5;4
+2012;Summer;Great Britain;London;10568;204;302;Japan;7;14;17
+2012;Summer;Great Britain;London;10568;204;302;Kazakhstan;3;1;7
+2012;Summer;Great Britain;London;10568;204;302;Kenya;2;4;7
+2012;Summer;Great Britain;London;10568;204;302;Kuwait;0;0;1
+2012;Summer;Great Britain;London;10568;204;302;Latvia;1;0;1
+2012;Summer;Great Britain;London;10568;204;302;Lithuania;2;0;3
+2012;Summer;Great Britain;London;10568;204;302;Malaysia;0;1;1
+2012;Summer;Great Britain;London;10568;204;302;Mexico;1;3;4
+2012;Summer;Great Britain;London;10568;204;302;Mongolia;0;2;3
+2012;Summer;Great Britain;London;10568;204;302;Montenegro;0;1;0
+2012;Summer;Great Britain;London;10568;204;302;Morocco;0;0;1
+2012;Summer;Great Britain;London;10568;204;302;Netherlands;6;6;8
+2012;Summer;Great Britain;London;10568;204;302;New Zealand;6;2;5
+2012;Summer;Great Britain;London;10568;204;302;Norway;2;1;1
+2012;Summer;Great Britain;London;10568;204;302;People Republic of China;39;31;22
+2012;Summer;Great Britain;London;10568;204;302;Poland;3;2;6
+2012;Summer;Great Britain;London;10568;204;302;Portugal;0;1;0
+2012;Summer;Great Britain;London;10568;204;302;Puerto Rico;0;1;1
+2012;Summer;Great Britain;London;10568;204;302;Qatar;0;1;1
+2012;Summer;Great Britain;London;10568;204;302;Republic of Korea;13;9;8
+2012;Summer;Great Britain;London;10568;204;302;Romania;2;4;1
+2012;Summer;Great Britain;London;10568;204;302;Russian Federation;18;21;26
+2012;Summer;Great Britain;London;10568;204;302;Saudi Arabia;0;0;1
+2012;Summer;Great Britain;London;10568;204;302;Serbia;1;1;2
+2012;Summer;Great Britain;London;10568;204;302;Singapore;0;0;2
+2012;Summer;Great Britain;London;10568;204;302;Slovakia;0;1;3
+2012;Summer;Great Britain;London;10568;204;302;Slovenia;1;1;2
+2012;Summer;Great Britain;London;10568;204;302;South Africa;4;1;1
+2012;Summer;Great Britain;London;10568;204;302;Spain;4;10;6
+2012;Summer;Great Britain;London;10568;204;302;Sweden;1;4;3
+2012;Summer;Great Britain;London;10568;204;302;Switzerland;2;2;0
+2012;Summer;Great Britain;London;10568;204;302;Tajikistan;0;0;1
+2012;Summer;Great Britain;London;10568;204;302;Thailand;0;2;2
+2012;Summer;Great Britain;London;10568;204;302;Trinidad and Tobago;1;1;2
+2012;Summer;Great Britain;London;10568;204;302;Tunisia;2;0;1
+2012;Summer;Great Britain;London;10568;204;302;Turkey;1;1;1
+2012;Summer;Great Britain;London;10568;204;302;Uganda;1;0;0
+2012;Summer;Great Britain;London;10568;204;302;Ukraine;5;4;10
+2012;Summer;Great Britain;London;10568;204;302;United Kingdom;29;18;18
+2012;Summer;Great Britain;London;10568;204;302;United States of America;48;26;30
+2012;Summer;Great Britain;London;10568;204;302;Uzbekistan;0;0;3
+2012;Summer;Great Britain;London;10568;204;302;Venezuela;1;0;0
+2012;Summer;Great Britain;London;10568;204;302;Vietnam;0;0;1
+2010;Winter;Canada;Vancouver;2566;82;86;Australia;2;1;0
+2010;Winter;Canada;Vancouver;2566;82;86;Austria;4;6;6
+2010;Winter;Canada;Vancouver;2566;82;86;Belarus;1;1;1
+2010;Winter;Canada;Vancouver;2566;82;86;Canada;14;7;5
+2010;Winter;Canada;Vancouver;2566;82;86;Croatia;0;2;1
+2010;Winter;Canada;Vancouver;2566;82;86;Czechia;2;0;4
+2010;Winter;Canada;Vancouver;2566;82;86;Estonia;0;1;0
+2010;Winter;Canada;Vancouver;2566;82;86;Finland;0;1;4
+2010;Winter;Canada;Vancouver;2566;82;86;France;2;3;6
+2010;Winter;Canada;Vancouver;2566;82;86;Germany;10;13;7
+2010;Winter;Canada;Vancouver;2566;82;86;Italy;1;1;3
+2010;Winter;Canada;Vancouver;2566;82;86;Japan;0;3;2
+2010;Winter;Canada;Vancouver;2566;82;86;Kazakhstan;0;1;0
+2010;Winter;Canada;Vancouver;2566;82;86;Latvia;0;2;0
+2010;Winter;Canada;Vancouver;2566;82;86;Netherlands;4;1;3
+2010;Winter;Canada;Vancouver;2566;82;86;Norway;9;8;6
+2010;Winter;Canada;Vancouver;2566;82;86;People Republic of China;5;2;4
+2010;Winter;Canada;Vancouver;2566;82;86;Poland;1;3;2
+2010;Winter;Canada;Vancouver;2566;82;86;Republic of Korea;6;6;2
+2010;Winter;Canada;Vancouver;2566;82;86;Russian Federation;3;5;7
+2010;Winter;Canada;Vancouver;2566;82;86;Slovakia;1;1;1
+2010;Winter;Canada;Vancouver;2566;82;86;Slovenia;0;2;1
+2010;Winter;Canada;Vancouver;2566;82;86;Sweden;5;2;4
+2010;Winter;Canada;Vancouver;2566;82;86;Switzerland;6;0;3
+2010;Winter;Canada;Vancouver;2566;82;86;United Kingdom;1;0;0
+2010;Winter;Canada;Vancouver;2566;82;86;United States of America;9;15;13
+2008;Summer;China;Beijing;10942;204;302;Afghanistan;0;0;1
+2008;Summer;China;Beijing;10942;204;302;Algeria;0;1;1
+2008;Summer;China;Beijing;10942;204;302;Argentina;2;0;4
+2008;Summer;China;Beijing;10942;204;302;Armenia;0;1;4
+2008;Summer;China;Beijing;10942;204;302;Australia;14;15;17
+2008;Summer;China;Beijing;10942;204;302;Austria;0;1;2
+2008;Summer;China;Beijing;10942;204;302;Azerbaijan;1;1;4
+2008;Summer;China;Beijing;10942;204;302;Bahamas;0;1;1
+2008;Summer;China;Beijing;10942;204;302;Belarus;3;4;7
+2008;Summer;China;Beijing;10942;204;302;Belgium;2;0;0
+2008;Summer;China;Beijing;10942;204;302;Brazil;3;4;10
+2008;Summer;China;Beijing;10942;204;302;Bulgaria;1;1;3
+2008;Summer;China;Beijing;10942;204;302;Cameroon;1;0;0
+2008;Summer;China;Beijing;10942;204;302;Canada;3;9;8
+2008;Summer;China;Beijing;10942;204;302;Chile;0;1;0
+2008;Summer;China;Beijing;10942;204;302;Chinese Taipei;1;1;2
+2008;Summer;China;Beijing;10942;204;302;Colombia;0;2;1
+2008;Summer;China;Beijing;10942;204;302;Croatia;0;2;3
+2008;Summer;China;Beijing;10942;204;302;Cuba;3;10;17
+2008;Summer;China;Beijing;10942;204;302;Czechia;3;3;1
+2008;Summer;China;Beijing;10942;204;302;Democratic People Republic of Korea;2;2;2
+2008;Summer;China;Beijing;10942;204;302;Denmark;2;2;3
+2008;Summer;China;Beijing;10942;204;302;Dominican Republic;1;1;0
+2008;Summer;China;Beijing;10942;204;302;Ecuador;0;1;0
+2008;Summer;China;Beijing;10942;204;302;Egypt;0;0;2
+2008;Summer;China;Beijing;10942;204;302;Estonia;1;1;0
+2008;Summer;China;Beijing;10942;204;302;Ethiopia;4;2;1
+2008;Summer;China;Beijing;10942;204;302;Finland;1;1;2
+2008;Summer;China;Beijing;10942;204;302;France;7;16;20
+2008;Summer;China;Beijing;10942;204;302;Georgia;3;2;2
+2008;Summer;China;Beijing;10942;204;302;Germany;16;11;14
+2008;Summer;China;Beijing;10942;204;302;Greece;0;2;1
+2008;Summer;China;Beijing;10942;204;302;Hungary;3;5;2
+2008;Summer;China;Beijing;10942;204;302;Iceland;0;1;0
+2008;Summer;China;Beijing;10942;204;302;India;1;0;2
+2008;Summer;China;Beijing;10942;204;302;Indonesia;1;1;4
+2008;Summer;China;Beijing;10942;204;302;Ireland;0;1;2
+2008;Summer;China;Beijing;10942;204;302;Islamic Republic of Iran;1;0;1
+2008;Summer;China;Beijing;10942;204;302;Israel;0;0;1
+2008;Summer;China;Beijing;10942;204;302;Italy;8;9;10
+2008;Summer;China;Beijing;10942;204;302;Jamaica;5;4;2
+2008;Summer;China;Beijing;10942;204;302;Japan;9;8;8
+2008;Summer;China;Beijing;10942;204;302;Kazakhstan;2;3;4
+2008;Summer;China;Beijing;10942;204;302;Kenya;6;4;6
+2008;Summer;China;Beijing;10942;204;302;Kyrgyzstan;0;1;2
+2008;Summer;China;Beijing;10942;204;302;Latvia;1;1;1
+2008;Summer;China;Beijing;10942;204;302;Lithuania;0;3;2
+2008;Summer;China;Beijing;10942;204;302;Malaysia;0;1;0
+2008;Summer;China;Beijing;10942;204;302;Mauritius;0;0;1
+2008;Summer;China;Beijing;10942;204;302;Mexico;2;0;2
+2008;Summer;China;Beijing;10942;204;302;Moldova;0;0;1
+2008;Summer;China;Beijing;10942;204;302;Mongolia;2;2;0
+2008;Summer;China;Beijing;10942;204;302;Morocco;0;1;1
+2008;Summer;China;Beijing;10942;204;302;Netherlands;7;5;4
+2008;Summer;China;Beijing;10942;204;302;New Zealand;3;2;4
+2008;Summer;China;Beijing;10942;204;302;Nigeria;0;3;2
+2008;Summer;China;Beijing;10942;204;302;Norway;3;5;1
+2008;Summer;China;Beijing;10942;204;302;Panama;1;0;0
+2008;Summer;China;Beijing;10942;204;302;People Republic of China;48;22;30
+2008;Summer;China;Beijing;10942;204;302;Poland;4;5;2
+2008;Summer;China;Beijing;10942;204;302;Portugal;1;1;0
+2008;Summer;China;Beijing;10942;204;302;Republic of Korea;13;11;8
+2008;Summer;China;Beijing;10942;204;302;Romania;4;1;4
+2008;Summer;China;Beijing;10942;204;302;Russian Federation;24;13;23
+2008;Summer;China;Beijing;10942;204;302;Samoa;0;1;0
+2008;Summer;China;Beijing;10942;204;302;Serbia;0;1;2
+2008;Summer;China;Beijing;10942;204;302;Singapore;0;1;0
+2008;Summer;China;Beijing;10942;204;302;Slovakia;3;3;0
+2008;Summer;China;Beijing;10942;204;302;Slovenia;1;2;2
+2008;Summer;China;Beijing;10942;204;302;South Africa;0;1;0
+2008;Summer;China;Beijing;10942;204;302;Spain;5;11;3
+2008;Summer;China;Beijing;10942;204;302;Sudan;0;1;0
+2008;Summer;China;Beijing;10942;204;302;Sweden;0;4;1
+2008;Summer;China;Beijing;10942;204;302;Switzerland;2;1;4
+2008;Summer;China;Beijing;10942;204;302;Tajikistan;0;1;1
+2008;Summer;China;Beijing;10942;204;302;Thailand;2;2;2
+2008;Summer;China;Beijing;10942;204;302;Togo;0;0;1
+2008;Summer;China;Beijing;10942;204;302;Trinidad and Tobago;1;1;0
+2008;Summer;China;Beijing;10942;204;302;Tunisia;1;0;0
+2008;Summer;China;Beijing;10942;204;302;Turkey;1;1;3
+2008;Summer;China;Beijing;10942;204;302;Ukraine;7;4;11
+2008;Summer;China;Beijing;10942;204;302;United Kingdom;19;13;19
+2008;Summer;China;Beijing;10942;204;302;United States of America;36;39;37
+2008;Summer;China;Beijing;10942;204;302;Uzbekistan;0;1;3
+2008;Summer;China;Beijing;10942;204;302;Venezuela;0;0;1
+2008;Summer;China;Beijing;10942;204;302;Vietnam;0;1;0
+2008;Summer;China;Beijing;10942;204;302;Zimbabwe;1;3;0
+2006;Winter;Italy;Turin;2508;80;84;Australia;1;0;1
+2006;Winter;Italy;Turin;2508;80;84;Austria;9;7;7
+2006;Winter;Italy;Turin;2508;80;84;Belarus;0;1;0
+2006;Winter;Italy;Turin;2508;80;84;Bulgaria;0;1;0
+2006;Winter;Italy;Turin;2508;80;84;Canada;7;10;7
+2006;Winter;Italy;Turin;2508;80;84;Croatia;1;2;0
+2006;Winter;Italy;Turin;2508;80;84;Czechia;1;2;1
+2006;Winter;Italy;Turin;2508;80;84;Estonia;3;0;0
+2006;Winter;Italy;Turin;2508;80;84;Finland;0;6;3
+2006;Winter;Italy;Turin;2508;80;84;France;3;2;4
+2006;Winter;Italy;Turin;2508;80;84;Germany;11;12;6
+2006;Winter;Italy;Turin;2508;80;84;Italy;5;0;6
+2006;Winter;Italy;Turin;2508;80;84;Japan;1;0;0
+2006;Winter;Italy;Turin;2508;80;84;Latvia;0;0;1
+2006;Winter;Italy;Turin;2508;80;84;Netherlands;3;2;4
+2006;Winter;Italy;Turin;2508;80;84;Norway;2;8;9
+2006;Winter;Italy;Turin;2508;80;84;People Republic of China;2;4;5
+2006;Winter;Italy;Turin;2508;80;84;Poland;0;1;1
+2006;Winter;Italy;Turin;2508;80;84;Republic of Korea;6;3;2
+2006;Winter;Italy;Turin;2508;80;84;Russian Federation;8;6;8
+2006;Winter;Italy;Turin;2508;80;84;Slovakia;0;1;0
+2006;Winter;Italy;Turin;2508;80;84;Sweden;7;2;5
+2006;Winter;Italy;Turin;2508;80;84;Switzerland;5;4;5
+2006;Winter;Italy;Turin;2508;80;84;Ukraine;0;0;2
+2006;Winter;Italy;Turin;2508;80;84;United Kingdom;0;1;0
+2006;Winter;Italy;Turin;2508;80;84;United States of America;9;9;7
+2004;Summer;Greece;Athens;10625;201;301;Argentina;2;0;4
+2004;Summer;Greece;Athens;10625;201;301;Australia;17;16;17
+2004;Summer;Greece;Athens;10625;201;301;Austria;2;4;1
+2004;Summer;Greece;Athens;10625;201;301;Azerbaijan;1;0;4
+2004;Summer;Greece;Athens;10625;201;301;Bahamas;1;0;1
+2004;Summer;Greece;Athens;10625;201;301;Belarus;2;5;6
+2004;Summer;Greece;Athens;10625;201;301;Belgium;1;0;2
+2004;Summer;Greece;Athens;10625;201;301;Brazil;5;2;3
+2004;Summer;Greece;Athens;10625;201;301;Bulgaria;2;1;9
+2004;Summer;Greece;Athens;10625;201;301;Cameroon;1;0;0
+2004;Summer;Greece;Athens;10625;201;301;Canada;3;6;3
+2004;Summer;Greece;Athens;10625;201;301;Chile;2;0;1
+2004;Summer;Greece;Athens;10625;201;301;Chinese Taipei;2;2;1
+2004;Summer;Greece;Athens;10625;201;301;Colombia;0;0;2
+2004;Summer;Greece;Athens;10625;201;301;Croatia;1;2;2
+2004;Summer;Greece;Athens;10625;201;301;Cuba;9;7;11
+2004;Summer;Greece;Athens;10625;201;301;Czechia;1;3;5
+2004;Summer;Greece;Athens;10625;201;301;Democratic People Republic of Korea;0;4;1
+2004;Summer;Greece;Athens;10625;201;301;Denmark;2;1;5
+2004;Summer;Greece;Athens;10625;201;301;Dominican Republic;1;0;0
+2004;Summer;Greece;Athens;10625;201;301;Egypt;1;1;3
+2004;Summer;Greece;Athens;10625;201;301;Eritrea;0;0;1
+2004;Summer;Greece;Athens;10625;201;301;Estonia;0;1;2
+2004;Summer;Greece;Athens;10625;201;301;Ethiopia;2;3;2
+2004;Summer;Greece;Athens;10625;201;301;Finland;0;2;0
+2004;Summer;Greece;Athens;10625;201;301;France;11;9;13
+2004;Summer;Greece;Athens;10625;201;301;Georgia;2;2;0
+2004;Summer;Greece;Athens;10625;201;301;Germany;13;16;20
+2004;Summer;Greece;Athens;10625;201;301;Greece;6;6;4
+2004;Summer;Greece;Athens;10625;201;301;Hong Kong China;0;1;0
+2004;Summer;Greece;Athens;10625;201;301;Hungary;8;6;3
+2004;Summer;Greece;Athens;10625;201;301;India;0;1;0
+2004;Summer;Greece;Athens;10625;201;301;Indonesia;1;1;2
+2004;Summer;Greece;Athens;10625;201;301;Islamic Republic of Iran;2;2;2
+2004;Summer;Greece;Athens;10625;201;301;Israel;1;0;1
+2004;Summer;Greece;Athens;10625;201;301;Italy;10;11;11
+2004;Summer;Greece;Athens;10625;201;301;Jamaica;2;1;2
+2004;Summer;Greece;Athens;10625;201;301;Japan;16;9;12
+2004;Summer;Greece;Athens;10625;201;301;Kazakhstan;1;4;3
+2004;Summer;Greece;Athens;10625;201;301;Kenya;1;4;2
+2004;Summer;Greece;Athens;10625;201;301;Latvia;0;4;0
+2004;Summer;Greece;Athens;10625;201;301;Lithuania;1;2;0
+2004;Summer;Greece;Athens;10625;201;301;Mexico;0;3;1
+2004;Summer;Greece;Athens;10625;201;301;Mongolia;0;0;1
+2004;Summer;Greece;Athens;10625;201;301;Morocco;2;1;0
+2004;Summer;Greece;Athens;10625;201;301;Netherlands;4;9;9
+2004;Summer;Greece;Athens;10625;201;301;New Zealand;3;2;0
+2004;Summer;Greece;Athens;10625;201;301;Nigeria;0;0;2
+2004;Summer;Greece;Athens;10625;201;301;Norway;5;0;1
+2004;Summer;Greece;Athens;10625;201;301;Paraguay;0;1;0
+2004;Summer;Greece;Athens;10625;201;301;People Republic of China;32;17;14
+2004;Summer;Greece;Athens;10625;201;301;Poland;3;2;5
+2004;Summer;Greece;Athens;10625;201;301;Portugal;0;2;1
+2004;Summer;Greece;Athens;10625;201;301;Republic of Korea;9;12;9
+2004;Summer;Greece;Athens;10625;201;301;Romania;8;5;6
+2004;Summer;Greece;Athens;10625;201;301;Russian Federation;28;26;36
+2004;Summer;Greece;Athens;10625;201;301;Serbia and Montenegro;0;2;0
+2004;Summer;Greece;Athens;10625;201;301;Slovakia;2;2;2
+2004;Summer;Greece;Athens;10625;201;301;Slovenia;0;1;3
+2004;Summer;Greece;Athens;10625;201;301;South Africa;1;3;2
+2004;Summer;Greece;Athens;10625;201;301;Spain;3;11;6
+2004;Summer;Greece;Athens;10625;201;301;Sweden;4;2;1
+2004;Summer;Greece;Athens;10625;201;301;Switzerland;1;1;3
+2004;Summer;Greece;Athens;10625;201;301;Syrian Arab Republic;0;0;1
+2004;Summer;Greece;Athens;10625;201;301;Thailand;3;1;4
+2004;Summer;Greece;Athens;10625;201;301;Trinidad and Tobago;0;0;1
+2004;Summer;Greece;Athens;10625;201;301;Turkey;3;3;4
+2004;Summer;Greece;Athens;10625;201;301;Ukraine;8;5;9
+2004;Summer;Greece;Athens;10625;201;301;United Arab Emirates;1;0;0
+2004;Summer;Greece;Athens;10625;201;301;United Kingdom;9;9;12
+2004;Summer;Greece;Athens;10625;201;301;United States of America;36;39;26
+2004;Summer;Greece;Athens;10625;201;301;Uzbekistan;2;1;2
+2004;Summer;Greece;Athens;10625;201;301;Venezuela;0;0;2
+2004;Summer;Greece;Athens;10625;201;301;Zimbabwe;1;1;1
+2002;Winter;United States;Salt Lake City;2399;77;78;Australia;2;0;0
+2002;Winter;United States;Salt Lake City;2399;77;78;Austria;3;4;10
+2002;Winter;United States;Salt Lake City;2399;77;78;Belarus;0;0;1
+2002;Winter;United States;Salt Lake City;2399;77;78;Bulgaria;0;1;2
+2002;Winter;United States;Salt Lake City;2399;77;78;Canada;7;3;7
+2002;Winter;United States;Salt Lake City;2399;77;78;Croatia;3;1;0
+2002;Winter;United States;Salt Lake City;2399;77;78;Czechia;1;2;0
+2002;Winter;United States;Salt Lake City;2399;77;78;Estonia;1;1;1
+2002;Winter;United States;Salt Lake City;2399;77;78;Finland;4;2;1
+2002;Winter;United States;Salt Lake City;2399;77;78;France;4;5;2
+2002;Winter;United States;Salt Lake City;2399;77;78;Germany;12;16;8
+2002;Winter;United States;Salt Lake City;2399;77;78;Italy;4;4;5
+2002;Winter;United States;Salt Lake City;2399;77;78;Japan;0;1;1
+2002;Winter;United States;Salt Lake City;2399;77;78;Netherlands;3;5;0
+2002;Winter;United States;Salt Lake City;2399;77;78;Norway;13;5;7
+2002;Winter;United States;Salt Lake City;2399;77;78;People Republic of China;2;2;4
+2002;Winter;United States;Salt Lake City;2399;77;78;Poland;0;1;1
+2002;Winter;United States;Salt Lake City;2399;77;78;Republic of Korea;2;2;0
+2002;Winter;United States;Salt Lake City;2399;77;78;Russian Federation;5;4;4
+2002;Winter;United States;Salt Lake City;2399;77;78;Slovenia;0;0;1
+2002;Winter;United States;Salt Lake City;2399;77;78;Sweden;0;2;5
+2002;Winter;United States;Salt Lake City;2399;77;78;Switzerland;3;2;6
+2002;Winter;United States;Salt Lake City;2399;77;78;United Kingdom;1;0;1
+2002;Winter;United States;Salt Lake City;2399;77;78;United States of America;10;13;11
+2000;Summer;Australia;Sydney;10651;199;300;Algeria;1;1;3
+2000;Summer;Australia;Sydney;10651;199;300;Argentina;0;2;2
+2000;Summer;Australia;Sydney;10651;199;300;Armenia;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Australia;16;25;17
+2000;Summer;Australia;Sydney;10651;199;300;Austria;2;1;0
+2000;Summer;Australia;Sydney;10651;199;300;Azerbaijan;2;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Bahamas;2;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Barbados;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Belarus;3;3;11
+2000;Summer;Australia;Sydney;10651;199;300;Belgium;0;2;3
+2000;Summer;Australia;Sydney;10651;199;300;Brazil;0;6;6
+2000;Summer;Australia;Sydney;10651;199;300;Bulgaria;5;6;2
+2000;Summer;Australia;Sydney;10651;199;300;Cameroon;1;0;0
+2000;Summer;Australia;Sydney;10651;199;300;Canada;3;3;8
+2000;Summer;Australia;Sydney;10651;199;300;Chile;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Chinese Taipei;0;1;4
+2000;Summer;Australia;Sydney;10651;199;300;Colombia;1;0;0
+2000;Summer;Australia;Sydney;10651;199;300;Costa Rica;0;0;2
+2000;Summer;Australia;Sydney;10651;199;300;Croatia;1;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Cuba;11;11;7
+2000;Summer;Australia;Sydney;10651;199;300;Czechia;2;3;3
+2000;Summer;Australia;Sydney;10651;199;300;Democratic People Republic of Korea;0;1;3
+2000;Summer;Australia;Sydney;10651;199;300;Denmark;2;3;1
+2000;Summer;Australia;Sydney;10651;199;300;Estonia;1;0;2
+2000;Summer;Australia;Sydney;10651;199;300;Ethiopia;4;1;3
+2000;Summer;Australia;Sydney;10651;199;300;Finland;2;1;1
+2000;Summer;Australia;Sydney;10651;199;300;France;13;14;11
+2000;Summer;Australia;Sydney;10651;199;300;Georgia;0;0;6
+2000;Summer;Australia;Sydney;10651;199;300;Germany;13;17;26
+2000;Summer;Australia;Sydney;10651;199;300;Greece;4;6;3
+2000;Summer;Australia;Sydney;10651;199;300;Hungary;8;6;3
+2000;Summer;Australia;Sydney;10651;199;300;Iceland;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;India;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Indonesia;1;3;2
+2000;Summer;Australia;Sydney;10651;199;300;Ireland;0;1;0
+2000;Summer;Australia;Sydney;10651;199;300;Islamic Republic of Iran;3;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Israel;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Italy;13;8;13
+2000;Summer;Australia;Sydney;10651;199;300;Jamaica;0;6;3
+2000;Summer;Australia;Sydney;10651;199;300;Japan;5;8;5
+2000;Summer;Australia;Sydney;10651;199;300;Kazakhstan;3;4;0
+2000;Summer;Australia;Sydney;10651;199;300;Kenya;2;3;2
+2000;Summer;Australia;Sydney;10651;199;300;Kuwait;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Kyrgyzstan;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Latvia;1;1;1
+2000;Summer;Australia;Sydney;10651;199;300;Lithuania;2;0;3
+2000;Summer;Australia;Sydney;10651;199;300;Mexico;1;2;3
+2000;Summer;Australia;Sydney;10651;199;300;Moldova;0;1;1
+2000;Summer;Australia;Sydney;10651;199;300;Morocco;0;1;4
+2000;Summer;Australia;Sydney;10651;199;300;Mozambique;1;0;0
+2000;Summer;Australia;Sydney;10651;199;300;Netherlands;12;9;4
+2000;Summer;Australia;Sydney;10651;199;300;New Zealand;1;0;3
+2000;Summer;Australia;Sydney;10651;199;300;Nigeria;1;2;0
+2000;Summer;Australia;Sydney;10651;199;300;North Macedonia;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Norway;4;3;3
+2000;Summer;Australia;Sydney;10651;199;300;People Republic of China;28;16;14
+2000;Summer;Australia;Sydney;10651;199;300;Poland;6;5;3
+2000;Summer;Australia;Sydney;10651;199;300;Portugal;0;0;2
+2000;Summer;Australia;Sydney;10651;199;300;Qatar;0;0;1
+2000;Summer;Australia;Sydney;10651;199;300;Republic of Korea;8;10;10
+2000;Summer;Australia;Sydney;10651;199;300;Romania;11;6;9
+2000;Summer;Australia;Sydney;10651;199;300;Russian Federation;32;28;29
+2000;Summer;Australia;Sydney;10651;199;300;Saudi Arabia;0;1;1
+2000;Summer;Australia;Sydney;10651;199;300;Serbia and Montenegro;1;1;1
+2000;Summer;Australia;Sydney;10651;199;300;Slovakia;1;3;1
+2000;Summer;Australia;Sydney;10651;199;300;Slovenia;2;0;0
+2000;Summer;Australia;Sydney;10651;199;300;South Africa;0;2;3
+2000;Summer;Australia;Sydney;10651;199;300;Spain;3;3;5
+2000;Summer;Australia;Sydney;10651;199;300;Sri Lanka;0;1;0
+2000;Summer;Australia;Sydney;10651;199;300;Sweden;4;5;3
+2000;Summer;Australia;Sydney;10651;199;300;Switzerland;1;6;2
+2000;Summer;Australia;Sydney;10651;199;300;Thailand;1;0;2
+2000;Summer;Australia;Sydney;10651;199;300;Trinidad and Tobago;0;1;1
+2000;Summer;Australia;Sydney;10651;199;300;Turkey;3;0;2
+2000;Summer;Australia;Sydney;10651;199;300;Ukraine;3;10;10
+2000;Summer;Australia;Sydney;10651;199;300;United Kingdom;11;10;7
+2000;Summer;Australia;Sydney;10651;199;300;United States of America;37;24;32
+2000;Summer;Australia;Sydney;10651;199;300;Uruguay;0;1;0
+2000;Summer;Australia;Sydney;10651;199;300;Uzbekistan;1;1;2
+2000;Summer;Australia;Sydney;10651;199;300;Vietnam;0;1;0
